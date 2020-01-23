@@ -1,0 +1,4 @@
+[run]
+include = inte_sites/*
+omit = inte_sites/tests/*
+branch = 1
