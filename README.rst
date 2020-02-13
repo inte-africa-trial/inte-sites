@@ -10,7 +10,7 @@ Trial sites / recruiting centers
     :target: https://pypi.python.org/pypi/inte-sites
     
 .. |travis| image:: https://travis-ci.com/inte-trial/inte-sites.svg?branch=develop
-    :target: https://travis-ci.org/inte-trial/inte-sites
+    :target: https://travis-ci.com/inte-trial/inte-sites
     
 .. |codecov| image:: https://codecov.io/gh/inte-trial/inte-sites/branch/develop/graph/badge.svg
   :target: https://codecov.io/gh/inte-trial/inte-sites
